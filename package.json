@@ -1,0 +1,16 @@
+{
+  "name": "karitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "~Alex~Karibou~",
+  "license": "MIT"
+}
